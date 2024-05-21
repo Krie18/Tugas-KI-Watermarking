@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.preview-container {
+  display: flex;
+  justify-content: center;
+}
+
+.preview {
+  max-width: 200px;
+  margin: 0 10px;
+}
+
+.canvas {
+  max-width: 100%;
+  border: 1px solid #ccc;
+} 
